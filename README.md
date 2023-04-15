@@ -1,0 +1,4 @@
+.github
+=======
+
+Nix project template
