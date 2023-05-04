@@ -12,7 +12,7 @@
         pkgs = import nixpkgs { inherit system overlays; };
       in
       rec {
-        # packages.tira = example;
+        # packages.example = example;
         # defaultPackage = example;
 
         # apps.example = flake-utils.lib.mkApp {
